@@ -1,0 +1,16 @@
+{
+  ".gitignore": "98c72d90be055d76e5f21e7d358c2a09b035af8c16034a0c469f38cdcaaaf701",
+  "GROUP_MEETING.md": "b56e28e38c1902edca8562085bbfc54e67745165321aa72372bf317706ab7c6d",
+  "README.md": "956700571d94024fe2ebc1558efd89620a64434d80731b5db084f75b23c40fa7",
+  "requirements-preflight.txt": "69422e118fbc3906ea8ca441cc0e88ae24753dd53535f1212869b0474e083423",
+  "skills/electrical-drawing-reader/agents/openai.yaml": "57769acbfe73001ee678b8581ef74b5ad362bb195e3ac4524f9eaaa330475002",
+  "skills/electrical-drawing-reader/references/acceptance.md": "9b535970ff230478217f9cf6d0d4762c01e0f1f5781308cad959475b26c5824a",
+  "skills/electrical-drawing-reader/references/circuit-explanation.md": "1d7fd5df4181caaf9700c9ffa0b55dcfd301f1b40fcc87e3b97a82626e0c6d3f",
+  "skills/electrical-drawing-reader/references/example-reading.md": "3c787af6cf2be39107c94083cc606fed93027f3269b02488294adfd1c5c37606",
+  "skills/electrical-drawing-reader/references/new-project-onboarding.md": "cd71c9a3707e095b8c61fe71cacf588e14a59a12b3bad53ef19a789b9d3bac5f",
+  "skills/electrical-drawing-reader/references/project-runbook.md": "5d0afd705244a08e29c2c8a21bf94da26ea1ee5a8c1ce4e06f34ccef99db874c",
+  "skills/electrical-drawing-reader/references/recognition-rules.md": "23729ea151adbb4e0be3feffc25a4c85f109430cb3e67dca3002c20d0fbb3833",
+  "skills/electrical-drawing-reader/scripts/index_pdf.py": "e579a3923ec10ebecd667b55ae2cc0f29fa6d5d7be07f708df08359fad8b249e",
+  "skills/electrical-drawing-reader/scripts/inspect_drawing.py": "a1fa864747c0b8e2ce79845fc9ab949d95f2f9448cbd0aa32f90b21d1f636631",
+  "skills/electrical-drawing-reader/SKILL.md": "3abbb79f0de4edb3e885db56612ebee066c4f17c0da319f42693f597d46c9ea9"
+}

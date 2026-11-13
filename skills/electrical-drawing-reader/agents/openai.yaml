@@ -1,0 +1,4 @@
+interface:
+  display_name: "电气工程识图与新图册接入"
+  short_description: "梳理新工程图册，按需解析查线，结合原图解释分合闸、保护与联锁"
+  default_prompt: "使用 $electrical-drawing-reader 帮我快速上手这份新工程图纸，先梳理图册与柜体范围，说明支持情况，再按任务需要解析查线或解释回路，并保留原图依据。"
