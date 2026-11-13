@@ -21,7 +21,6 @@
 ```text
 electrical-drawing-skills/
 ├── README.md
-├── GROUP_MEETING.md
 ├── requirements-preflight.txt
 └── skills/
     └── electrical-drawing-reader/

@@ -1,7 +1,6 @@
 {
   ".gitignore": "98c72d90be055d76e5f21e7d358c2a09b035af8c16034a0c469f38cdcaaaf701",
-  "GROUP_MEETING.md": "b56e28e38c1902edca8562085bbfc54e67745165321aa72372bf317706ab7c6d",
-  "README.md": "956700571d94024fe2ebc1558efd89620a64434d80731b5db084f75b23c40fa7",
+  "README.md": "f7ea1cec34838acf9964ac1052451504b512a3f8c81e7b1a6be290b3206adb77",
   "requirements-preflight.txt": "69422e118fbc3906ea8ca441cc0e88ae24753dd53535f1212869b0474e083423",
   "skills/electrical-drawing-reader/agents/openai.yaml": "57769acbfe73001ee678b8581ef74b5ad362bb195e3ac4524f9eaaa330475002",
   "skills/electrical-drawing-reader/references/acceptance.md": "9b535970ff230478217f9cf6d0d4762c01e0f1f5781308cad959475b26c5824a",
